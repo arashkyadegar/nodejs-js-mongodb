@@ -1,0 +1,8 @@
+{
+  "config" : " myProject 1.1.0 - default",
+   "db" : "mongodb://localhost/webSite",
+  "dbConfig" : {
+    "host":"localhost"
+  }
+}
+
